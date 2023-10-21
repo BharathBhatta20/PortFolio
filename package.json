@@ -1,0 +1,33 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio Project to tell about me and my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharathBhatta20/PortFolio.git"
+  },
+  "keywords": [
+    "React JS",
+    "Parcel"
+  ],
+  "author": "Bharath M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BharathBhatta20/PortFolio/issues"
+  },
+  "homepage": "https://github.com/BharathBhatta20/PortFolio#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
